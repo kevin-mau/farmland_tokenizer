@@ -38,7 +38,8 @@ To summarize in more detail, farmland has:
 
 Farmland as a diversifier:
 * Farmland has great returns with very low volatility
-![Farmland Risk Return](Images/farmland_asset_class_risk_return.png)  
+![Farmland Risk Return](Images/farmland_asset_class_risk_return.png)
+![Farmland Historic Chart](Images/historic_prices_comparison.png)
 
 * Farmland has the best diversification ability when analyzed using return to downside volatility and/or return to maximum drawdown
 ![Farmland Diversification Rating](Images/farmland_asset_class_diversification.png)
@@ -51,6 +52,7 @@ Example:
 * Estimated conventional price of farm of $400K ends up earning $900K for the farmer because of the dynamic pricing
 
 ![Farmland Crowdsale Dynamic Pricing](Images/farmland_crowdsale_dynamic_pricing.png)
+![Farmland Crowdsale Dynamic Pricing Table](Images/farmland_crowdsale_dynamic_pricing_2.png)
 
 
 </p>

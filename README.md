@@ -36,7 +36,7 @@ To summarize in more detail, farmland has:
   ![image](https://user-images.githubusercontent.com/85215301/142964652-a09d90e0-83b3-4aea-aa37-0fb0a1234b54.png)
 
 
-Farmland as a diversifier:
+Farmland as a diversifier (1990 to 2018):
 * Farmland has great returns with very low volatility
 ![Farmland Risk Return](Images/farmland_asset_class_risk_return.png)
 ![Farmland Historic Chart](Images/historic_prices_comparison.png)
@@ -50,6 +50,7 @@ Dynamic Pricing for Crowdsale:
 Example:
 * Price per token changes from $40 per token to $140 per token.
 * Estimated conventional price of farm of $400K ends up earning $900K for the farmer because of the dynamic pricing
+* The value of each token (without factoring inflation) would be $150 per token after 5 years. So, even the highest payer for the token will recover his investment in 5 years and then have steady increase in value and revenue forever because farmland is not going to increase but the food consumption will. 
 
 ![Farmland Crowdsale Dynamic Pricing](Images/farmland_crowdsale_dynamic_pricing.png)
 ![Farmland Crowdsale Dynamic Pricing Table](Images/farmland_crowdsale_dynamic_pricing_2.png)

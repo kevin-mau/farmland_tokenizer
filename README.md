@@ -55,6 +55,9 @@ Example:
 ![Farmland Crowdsale Dynamic Pricing](Images/farmland_crowdsale_dynamic_pricing.png)
 ![Farmland Crowdsale Dynamic Pricing Table](Images/farmland_crowdsale_dynamic_pricing_2.png)
 
+Total Projected Value of the token
+![Farmland Crowdsale Projected Value of Token](Images/total_projected_value_of_a_token.png)
+
 
 </p>
 

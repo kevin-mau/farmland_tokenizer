@@ -79,6 +79,7 @@ Total Projected Value of the token
 * [hvplot](https://hvplot.holoviz.org/) - hvPlot provides a high-level plotting API built on HoloViews that provides a general and consistent API for plotting data
 * [Pandas](https://github.com/pandas-dev/pandas) - Data analysis and manipulation library.
 * [web3](https://pypi.org/project/web3/) - A Python library for interacting with Ethereum.
+* [Flask](https://www.fullstackpython.com/flask.html) - Python web framework built with a small core and easy-to-extend
 
 ***
 
@@ -120,7 +121,7 @@ Please install the following before starting the jupyter lab, streamlit and flas
   pip install hvplot
   pip install streamlit
   pip install web3
-
+  pip install Flask
 ```
 In case of issues, please see the requirements.txt for a complete list of packages with versions needed to run this application
 

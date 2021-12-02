@@ -81,6 +81,7 @@ Total Projected Value of the token
 * [web3](https://pypi.org/project/web3/) - A Python library for interacting with Ethereum.
 * [Flask](https://www.fullstackpython.com/flask.html) - Python web framework built with a small core and easy-to-extend
 * [web3.js](https://web3js.readthedocs.io/en/v1.5.2/) - web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - lightweight, interpreted, or just-in-time compiled programming language with first-class functions. well-known as the scripting language for Web pages
 
 ***
 
